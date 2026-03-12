@@ -1,0 +1,32 @@
+[
+  {
+    "id": "PG",
+    "name": "Point Guard",
+    "abbrev": "PG",
+    "description": "Primary ball-handler, playmaker"
+  },
+  {
+    "id": "SG",
+    "name": "Shooting Guard",
+    "abbrev": "SG",
+    "description": "Perimeter scorer, shooter"
+  },
+  {
+    "id": "SF",
+    "name": "Small Forward",
+    "abbrev": "SF",
+    "description": "Versatile wing player"
+  },
+  {
+    "id": "PF",
+    "name": "Power Forward",
+    "abbrev": "PF",
+    "description": "Inside-out forward, rebounder"
+  },
+  {
+    "id": "C",
+    "name": "Center",
+    "abbrev": "C",
+    "description": "Rim protector, post player"
+  }
+]

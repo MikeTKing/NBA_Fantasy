@@ -1,0 +1,71 @@
+.home-page .text-zone {
+  max-width: 920px;
+  margin: 42px auto 0;
+}
+
+.home-page h1 {
+  font-size: clamp(44px, 6vw, 74px);
+  line-height: 0.98;
+  margin: 0 0 18px 0;
+}
+
+.home-page h2 {
+  font-size: 16px;
+  font-weight: 520;
+  color: rgba(255, 255, 255, 0.72);
+  margin: 0 0 24px 0;
+  max-width: 56ch;
+}
+
+.flat-button {
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 12px;
+  background: linear-gradient(135deg, rgba(255, 59, 48, 0.95), rgba(251, 191, 36, 0.88));
+  color: rgba(0, 0, 0, 0.9);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.flat-button:hover {
+  filter: brightness(1.05);
+}
+
+.hero-card {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 18px;
+  padding: 22px 22px 24px;
+  box-shadow:
+    0 18px 70px rgba(0, 0, 0, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(14px);
+  transform: translateY(10px);
+  opacity: 0;
+  animation: heroIn 700ms cubic-bezier(.2,.8,.2,1) forwards;
+}
+
+.hero-kicker {
+  display: inline-flex;
+  gap: 10px;
+  align-items: center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(0, 0, 0, 0.22);
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 13px;
+  margin-bottom: 14px;
+}
+
+.hero-kicker strong {
+  color: rgba(255, 255, 255, 0.92);
+  font-weight: 800;
+}
+
+@keyframes heroIn {
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

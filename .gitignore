@@ -32,13 +32,13 @@ build/
 ### VS Code ###
 .vscode/
 
-# Ignore the separately-versioned frontend repo
-frontend/
-
-
 # Local tooling
 .codebuddy/
 
 # Backup from earlier accidental git init
 .git-backup-accidental-*/
+
+# Never commit embedded git metadata from nested projects
+frontend/.git-backup/
+.git-backup*/
 

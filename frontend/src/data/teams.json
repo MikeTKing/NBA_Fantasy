@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ATL",
+    "name": "Atlanta Hawks",
+    "city": "Atlanta",
+    "abbrev": "ATL",
+    "conference": "East",
+    "division": "Southeast",
+    "colors": ["#E03A3E", "#C1D32F"],
+    "logo": "/assets/teams/atl.svg"
+  },
+  {
+    "id": "BOS",
+    "name": "Boston Celtics",
+    "city": "Boston",
+    "abbrev": "BOS",
+    "conference": "East",
+    "division": "Atlantic",
+    "colors": ["#007A33", "#BA9653"],
+    "logo": "/assets/teams/bos.svg"
+  },
+  {
+    "id": "BKN",
+    "name": "Brooklyn Nets",
+    "city": "Brooklyn",
+    "abbrev": "BKN",
+    "conference": "East",
+    "division": "Atlantic",
+    "colors": ["#000000", "#FFFFFF"],
+    "logo": "/assets/teams/bkn.svg"
+  },
+  {
+    "id": "CHA",
+    "name": "Charlotte Hornets",
+    "city": "Charlotte",
+    "abbrev": "CHA",
+    "conference": "East",
+    "division": "Southeast",
+    "colors": ["#00788C", "#1D1160"],
+    "logo": "/assets/teams/cha.svg"
+  },
+  {
+    "id": "CHI",
+    "name": "Chicago Bulls",
+    "city": "Chicago",
+    "abbrev": "CHI",
+    "conference": "East",
+    "division": "Central",
+    "colors": ["#CE1141", "#000000"],
+    "logo": "/assets/teams/chi.svg"
+  },
+  {
+    "id": "CLE",
+    "name": "Cleveland Cavaliers",
+    "city": "Cleveland",
+    "abbrev": "CLE",
+    "conference": "East",
+    "division": "Central",
+    "colors": ["#860038", "#FDBB30"],
+    "logo": "/assets/teams/cle.svg"
+  },
+  {
+    "id": "DAL",
+    "name": "Dallas Mavericks",
+    "city": "Dallas",
+    "abbrev": "DAL",
+    "conference": "West",
+    "division": "Southwest",
+    "colors": ["#00538C", "#002B5E"],
+    "logo": "/assets/teams/dal.svg"
+  },
+  {
+    "id": "DEN",
+    "name": "Denver Nuggets",
+    "city": "Denver",
+    "abbrev": "DEN",
+    "conference": "West",
+    "division": "Northwest",
+    "colors": ["#0E2240", "#FEC524"],
+    "logo": "/assets/teams/den.svg"
+  },
+  {
+    "id": "DET",
+    "name": "Detroit Pistons",
+    "city": "Detroit",
+    "abbrev": "DET",
+    "conference": "East",
+    "division": "Central",
+    "colors": ["#C8102E", "#1D42BA"],
+    "logo": "/assets/teams/det.svg"
+  },
+  {
+    "id": "GSW",
+    "name": "Golden State Warriors",
+    "city": "San Francisco",
+    "abbrev": "GSW",
+    "conference": "West",
+    "division": "Pacific",
+    "colors": ["#1D428A", "#FFC72C"],
+    "logo": "/assets/teams/gsw.svg"
+  },
+  {
+    "id": "HOU",
+    "name": "Houston Rockets",
+    "city": "Houston",
+    "abbrev": "HOU",
+    "conference": "West",
+    "division": "Southwest",
+    "colors": ["#CE1141", "#000000"],
+    "logo": "/assets/teams/hou.svg"
+  },
+  {
+    "id": "IND",
+    "name": "Indiana Pacers",
+    "city": "Indianapolis",
+    "abbrev": "IND",
+    "conference": "East",
+    "division": "Central",
+    "colors": ["#002D62", "#FDBB30"],
+    "logo": "/assets/teams/ind.svg"
+  },
+  {
+    "id": "LAC",
+    "name": "LA Clippers",
+    "city": "Los Angeles",
+    "abbrev": "LAC",
+    "conference": "West",
+    "division": "Pacific",
+    "colors": ["#C8102E", "#1D428A"],
+    "logo": "/assets/teams/lac.svg"
+  },
+  {
+    "id": "LAL",
+    "name": "Los Angeles Lakers",
+    "city": "Los Angeles",
+    "abbrev": "LAL",
+    "conference": "West",
+    "division": "Pacific",
+    "colors": ["#552583", "#FDB927"],
+    "logo": "/assets/teams/lal.svg"
+  },
+  {
+    "id": "MEM",
+    "name": "Memphis Grizzlies",
+    "city": "Memphis",
+    "abbrev": "MEM",
+    "conference": "West",
+    "division": "Southwest",
+    "colors": ["#5D76A9", "#F5B112"],
+    "logo": "/assets/teams/mem.svg"
+  },
+  {
+    "id": "MIA",
+    "name": "Miami Heat",
+    "city": "Miami",
+    "abbrev": "MIA",
+    "conference": "East",
+    "division": "Southeast",
+    "colors": ["#98002E", "#F9A01B"],
+    "logo": "/assets/teams/mia.svg"
+  },
+  {
+    "id": "MIL",
+    "name": "Milwaukee Bucks",
+    "city": "Milwaukee",
+    "abbrev": "MIL",
+    "conference": "East",
+    "division": "Central",
+    "colors": ["#00471B", "#EEE1C6"],
+    "logo": "/assets/teams/mil.svg"
+  },
+  {
+    "id": "MIN",
+    "name": "Minnesota Timberwolves",
+    "city": "Minneapolis",
+    "abbrev": "MIN",
+    "conference": "West",
+    "division": "Northwest",
+    "colors": ["#0C2340", "#236192"],
+    "logo": "/assets/teams/min.svg"
+  },
+  {
+    "id": "NOP",
+    "name": "New Orleans Pelicans",
+    "city": "New Orleans",
+    "abbrev": "NOP",
+    "conference": "West",
+    "division": "Southwest",
+    "colors": ["#0C2340", "#C8102E"],
+    "logo": "/assets/teams/nop.svg"
+  },
+  {
+    "id": "NYK",
+    "name": "New York Knicks",
+    "city": "New York",
+    "abbrev": "NYK",
+    "conference": "East",
+    "division": "Atlantic",
+    "colors": ["#006BB6", "#F58426"],
+    "logo": "/assets/teams/nyk.svg"
+  },
+  {
+    "id": "OKC",
+    "name": "Oklahoma City Thunder",
+    "city": "Oklahoma City",
+    "abbrev": "OKC",
+    "conference": "West",
+    "division": "Northwest",
+    "colors": ["#007AC1", "#EF3B24"],
+    "logo": "/assets/teams/okc.svg"
+  },
+  {
+    "id": "ORL",
+    "name": "Orlando Magic",
+    "city": "Orlando",
+    "abbrev": "ORL",
+    "conference": "East",
+    "division": "Southeast",
+    "colors": ["#0077C0", "#C4CED4"],
+    "logo": "/assets/teams/orl.svg"
+  },
+  {
+    "id": "PHI",
+    "name": "Philadelphia 76ers",
+    "city": "Philadelphia",
+    "abbrev": "PHI",
+    "conference": "East",
+    "division": "Atlantic",
+    "colors": ["#006BB6", "#ED174C"],
+    "logo": "/assets/teams/phi.svg"
+  },
+  {
+    "id": "PHX",
+    "name": "Phoenix Suns",
+    "city": "Phoenix",
+    "abbrev": "PHX",
+    "conference": "West",
+    "division": "Pacific",
+    "colors": ["#1D1160", "#E56020"],
+    "logo": "/assets/teams/phx.svg"
+  },
+  {
+    "id": "POR",
+    "name": "Portland Trail Blazers",
+    "city": "Portland",
+    "abbrev": "POR",
+    "conference": "West",
+    "division": "Northwest",
+    "colors": ["#E03A3E", "#000000"],
+    "logo": "/assets/teams/por.svg"
+  },
+  {
+    "id": "SAC",
+    "name": "Sacramento Kings",
+    "city": "Sacramento",
+    "abbrev": "SAC",
+    "conference": "West",
+    "division": "Pacific",
+    "colors": ["#5A2D81", "#63727A"],
+    "logo": "/assets/teams/sac.svg"
+  },
+  {
+    "id": "SAS",
+    "name": "San Antonio Spurs",
+    "city": "San Antonio",
+    "abbrev": "SAS",
+    "conference": "West",
+    "division": "Southwest",
+    "colors": ["#C4CED4", "#000000"],
+    "logo": "/assets/teams/sas.svg"
+  },
+  {
+    "id": "TOR",
+    "name": "Toronto Raptors",
+    "city": "Toronto",
+    "abbrev": "TOR",
+    "conference": "East",
+    "division": "Atlantic",
+    "colors": ["#CE1141", "#000000"],
+    "logo": "/assets/teams/tor.svg"
+  },
+  {
+    "id": "UTA",
+    "name": "Utah Jazz",
+    "city": "Salt Lake City",
+    "abbrev": "UTA",
+    "conference": "West",
+    "division": "Northwest",
+    "colors": ["#002B5C", "#00471B"],
+    "logo": "/assets/teams/uta.svg"
+  },
+  {
+    "id": "WAS",
+    "name": "Washington Wizards",
+    "city": "Washington",
+    "abbrev": "WAS",
+    "conference": "East",
+    "division": "Southeast",
+    "colors": ["#002B5C", "#E31837"],
+    "logo": "/assets/teams/was.svg"
+  }
+]

@@ -1,0 +1,80 @@
+.table-container {
+  margin-top: 12px;
+}
+
+.table-container .page-title {
+  margin: 16px 0;
+  font-size: 40px;
+}
+
+.loading,
+.error {
+  margin: 16px 0;
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.actions {
+  margin: 10px 0 14px 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.download-button {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.92);
+  padding: 10px 12px;
+  border-radius: 14px;
+  cursor: pointer;
+}
+
+.download-button:hover {
+  border-color: rgba(255, 255, 255, 0.26);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow:
+    0 16px 60px rgba(0, 0, 0, 0.32),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+}
+
+th,
+td {
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  text-align: left;
+  font-size: 14px;
+}
+
+th {
+  background: rgba(0, 0, 0, 0.35);
+  color: rgba(255, 255, 255, 0.92);
+  position: sticky;
+  top: 0;
+}
+
+tr:nth-child(even) td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.show-more-button {
+  margin: 16px auto;
+  display: block;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.92);
+  padding: 10px 12px;
+  border-radius: 14px;
+  cursor: pointer;
+}
+
+.show-more-button:hover {
+  border-color: rgba(255, 255, 255, 0.26);
+}

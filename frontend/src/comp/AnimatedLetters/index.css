@@ -1,0 +1,11 @@
+.text-animate,
+.text-animate-hover {
+  display: inline-block;
+}
+
+.text-animate-hover:hover {
+  color: #d91c1c;
+  transform: translateY(-1px);
+  transition: transform 120ms ease, color 120ms ease;
+}
+

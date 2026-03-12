@@ -1,0 +1,16 @@
+.AppShell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.page {
+  flex: 1;
+  padding: 28px 18px 42px;
+}
+
+@media (max-width: 900px) {
+  .page {
+    padding: 16px;
+  }
+}
