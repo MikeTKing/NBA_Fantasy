@@ -15,6 +15,9 @@
 - Backend: Spring Boot (Maven)
 - Frontend: React + Vite
 
+## Data + Storage
+Player seed data starts from a CSV and is imported into a MySQL database on the backend (the app reads from MySQL at runtime).
+
 ## Run Locally
 
 ### Backend
